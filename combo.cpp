@@ -1,7 +1,7 @@
 /*
    ID:   michael119
    PROG: combo
-   LANG: C++
+   LANG: C++14
 */
 
 // 3-tuples where each element is within range [1..N], 1 <= N <= 100.
